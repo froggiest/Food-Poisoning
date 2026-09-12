@@ -1,6 +1,6 @@
 # Food poisoning analysis
 
-Comparing reports of alleged food poisoning to actual food inspection results. Using local data scraped from iwaspoisoned.com and comparing to public data on local food inspections from the Montgomery County government.
+Comparing reports of alleged food poisoning to actual food inspection results. Using local data scraped from iwaspoisoned.com and comparing to public data on local food inspections from the Montgomery County government. The purpose of this project is to have fun
 
 ### Tools used
 
